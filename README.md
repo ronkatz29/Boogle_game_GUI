@@ -18,3 +18,6 @@ Here some features of the project
 6.Clicked letters are disabled and their colours is changed until you click enter/delete/new game.
 
 7.At the last 30 seconds of the game the clock is flickering with bright colour to warn the player that time is running out.
+
+![BoogleGame](https://user-images.githubusercontent.com/84615613/162704195-69e98e5b-8b29-4f7d-814b-07f27d82be00.png)
+
